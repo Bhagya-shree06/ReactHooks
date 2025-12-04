@@ -8,7 +8,7 @@ export const data = [
         name : 'Shiva'
     },
     {
-        id : 1,
+        id : 3,
         name : 'Ragu'
     }
 ]
